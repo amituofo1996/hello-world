@@ -1,2 +1,3 @@
 # hello-world
-Just Another Respository
+只是另一个存储库
+我热爱计算机编程，希望能在计算机这个行业内取得较高成就
